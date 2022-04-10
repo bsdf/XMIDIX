@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=ＸＭＩＤＩＸ
+GenericName=HARDWARE MIDI PLAYER
+Comment=ＸＭＩＤＩＸ HARDWARE MIDI PLAYER
+Type=Application
+Terminal=false
+Exec=xmidix
+Icon=xmidix
+MimeType=audio/midi;audio/x-midi
+Categories=AudioVideo;Audio;Player

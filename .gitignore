@@ -1,0 +1,4 @@
+cmake-build-*
+compile_commands.json
+build
+.idea

@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>MIDI_LOGO.svg</file>
+    <file>MIDI_TRAY.svg</file>
+    <file>keys.png</file>
+  </qresource>
+</RCC>
